@@ -10,6 +10,8 @@ What you need to do is write a code which will read data from both these api’s
 
 
 Question2 
+
+
 Check out this website https://reqres.in/
 It has a an api to get a list of users https://reqres.in/api/users?page=2
 This api is page wise, i.e there are a total 12 pages and u can get a list of users for each page by passing the page number.
